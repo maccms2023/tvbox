@@ -4,10 +4,34 @@
     "name": "应用",
     "list": []
   },
-  { "name": "软件应用下载安装",
+  { "name": "软件极速下载安装",
     "list": [
       {
         "name": "熊猫TV",
+        "url": "http://120.46.1.213:99/upload/kozyax_app/20260611/17811152886a29a99899b16.apk",
+        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/maccms2023/tvbox/refs/heads/main/images/xm.png",
+        "version": "腰疼APP"
+      },
+{
+      "name": "骚火TV",
+        "url": "http://120.46.1.213:99/upload/kozyax_app/20260611/17811152256a29a9592beb0.apk",
+        "icon": "http://120.46.1.213:99/upload/images/20260611/17811155756a29aab7b8a47.jpeg",
+        "version": "腰疼APP"
+      },
+{
+      "name": "APP市场",
+        "url": "https://github.com/maccms2023/app/raw/refs/heads/main/APP%E5%B8%82%E5%9C%BA.apk",
+        "icon": "https://mpimg.cn/view.php/f50b170b3bf26175561259ba7b6148ac.png",
+        "version": "APP合集"
+      },
+{
+      "name": "熊猫TV",
+        "url": "https://lz.qaiu.top/parser?url=https://wwbkk.lanzoub.com/izORI3nstcab",
+        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/maccms2023/tvbox/refs/heads/main/images/xm.png",
+        "version": "腰疼APP"
+      },
+{
+      "name": "熊猫TV",
         "url": "https://lz.qaiu.top/parser?url=https://wwbkk.lanzoub.com/izORI3nstcab",
         "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/maccms2023/tvbox/refs/heads/main/images/xm.png",
         "version": "腰疼APP"
