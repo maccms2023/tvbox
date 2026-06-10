@@ -52,7 +52,7 @@
 {
       "name": "三级影视",
         "url": "https://lz.qaiu.top/parser?url=https://wwbkk.lanzoub.com/izORI3nstcab",
-        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/maccms2023/tvbox/refs/heads/main/images/xm.png",
+        "icon": "http://120.46.1.213:99/upload/images/20260611/17811189496a29b7e59c4e0.png",
         "version": "腰疼APP"
       },
 {
