@@ -7,6 +7,25 @@
   { "name": "软件极速下载安装",
     "list": [
       {
+     "name": "4K美眉",
+        "url": "http://120.46.1.213:99/upload/kozyax_app/20260611/17811164536a29ae2586bda.apk",
+        "icon": "http://120.46.1.213:99/upload/images/20260611/17811165916a29aeafa16dc.png",
+        "version": "腰疼APP"
+      },
+{
+    "name": "正品影视",
+        "url": "http://120.46.1.213:99/upload/kozyax_app/20260611/17811167326a29af3ca2d18.apk",
+        "icon": "https://zpyc.top/img/logo.png",
+        "version": "点播-直播"
+      },
+{
+
+    "name": "青苹果4K",
+        "url": "http://120.46.1.213:99/upload/kozyax_app/20260611/17811168706a29afc63ce26.apk",
+        "icon": "http://120.46.1.213:99/upload/images/20260611/17811169916a29b03fc75cd.png",
+        "version": "点播-直播"
+      },
+{
         "name": "熊猫TV",
         "url": "http://120.46.1.213:99/upload/kozyax_app/20260611/17811152886a29a99899b16.apk",
         "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/maccms2023/tvbox/refs/heads/main/images/xm.png",
@@ -20,23 +39,44 @@
       },
 {
       "name": "APP市场",
-        "url": "https://github.com/maccms2023/app/raw/refs/heads/main/APP%E5%B8%82%E5%9C%BA.apk",
+        "url": "https://v6.gh-proxy.org/https://github.com/maccms2023/app/raw/refs/heads/main/APP%E5%B8%82%E5%9C%BA.apk",
         "icon": "https://mpimg.cn/view.php/f50b170b3bf26175561259ba7b6148ac.png",
         "version": "APP合集"
       },
 {
-      "name": "熊猫TV",
+      "name": "TAO市场",
+        "url": "http://120.46.1.213:99/upload/kozyax_app/20260611/17811156906a29ab2ac8166.apk",
+        "icon": "https://mpimg.cn/view.php/1d342c516c9075423927f36ebbfa4ccf.png",
+        "version": "市场"
+      },
+{
+      "name": "三级影视",
         "url": "https://lz.qaiu.top/parser?url=https://wwbkk.lanzoub.com/izORI3nstcab",
         "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/maccms2023/tvbox/refs/heads/main/images/xm.png",
         "version": "腰疼APP"
       },
 {
-      "name": "熊猫TV",
-        "url": "https://lz.qaiu.top/parser?url=https://wwbkk.lanzoub.com/izORI3nstcab",
-        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/maccms2023/tvbox/refs/heads/main/images/xm.png",
-        "version": "腰疼APP"
+     "name": "永久影视",
+        "url": "http://120.46.1.213:99/upload/kozyax_app/20260611/17811159406a29ac244ced3.apk",
+        "icon": "http://120.46.1.213:99/upload/images/20260611/17811161856a29ad19227a2.png",
+        "version": "点播-直播"
       },
 {
+
+    "name": "爱4K",
+        "url": "http://120.46.1.213:99/upload/kozyax_app/20260611/17811173336a29b1958f8c7.apk",
+        "icon": "http://120.46.1.213:99/upload/images/20260611/17811173706a29b1ba23dfd.png",
+        "version": "点播-直播"
+      },
+{
+
+   "name": "土拨鼠影视",
+        "url": "http://120.46.1.213:99/upload/kozyax_app/20260611/17811186396a29b6af4c6fe.apk",
+        "icon": "http://120.46.1.213:99/upload/images/20260611/17811188406a29b77893b24.png",
+        "version": "点播-直播"
+      },
+{
+
         "name": "二狗助手",
         "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/ergou.apk",
         "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/ig.png",
