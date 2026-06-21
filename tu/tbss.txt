@@ -1,171 +1,258 @@
-
 [
   {
     "name": "应用",
     "list": []
   },
-  { "name": "软件极速下载安装",
+  {
+    "name": "点播",
     "list": [
       {
-     "name": "4K美眉",
-        "url": "http://120.46.1.213:99/upload/kozyax_app/20260611/17811164536a29ae2586bda.apk",
-        "icon": "http://120.46.1.213:99/upload/images/20260611/17811165916a29aeafa16dc.png",
-        "version": "腰疼APP"
-      },
-{
-    "name": "正品影视",
+        "name": "正品影视",
         "url": "http://120.46.1.213:99/upload/kozyax_app/20260611/17811167326a29af3ca2d18.apk",
         "icon": "https://zpyc.top/img/logo.png",
         "version": "点播-直播"
       },
-{
-
-    "name": "青苹果4K",
-        "url": "http://120.46.1.213:99/upload/kozyax_app/20260611/17811168706a29afc63ce26.apk",
-        "icon": "http://120.46.1.213:99/upload/images/20260611/17811169916a29b03fc75cd.png",
-        "version": "点播-直播"
+      {
+        "name": "爱心影视",
+        "url": "https://yecao.app/apps/1659/13220/c899fad20d8411e43c52f39b7386f533.apk",
+        "icon": "https://yecao.app/icons/2210/21664/08f551b10c92b3d6276950ef973c1a6b.png",
+        "version": "点播"
       },
-{
+      {
+   "name": "青苹果4K",
+        "url": "https://yecao.app/apps/2210/21664/1cbb2af67480216625b05c865acf3ca2.apk",
+        "icon": "https://yecao.app/icons/2210/21664/3337a9c4c8779984e8812ac31feec331.png",
+        "version": "点播"
+      },
+      {
+   "name": "爱家4K影院",
+        "url": "https://yecao.app/apps/1659/13220/cacd1d21a0f40a9f2613cdbe4ebc302a.apk",
+        "icon": "https://yecao.app/icons/1659/13220/6fb702d3da5891796604f1e360603070.png",
+        "version": "点播"
+      },
+      {
+   "name": "80后影视",
+        "url": "https://yecao.app/apps/2210/21664/f2c64b7e33c1227cc34bccdf4ea3bf4f.apk",
+        "icon": "https://yecao.app/icons/2210/21664/fe95029e69072ab3c70bd0c986382b92.png",
+        "version": "点播"
+      },
+      {
+   "name": "4K电视",
+        "url": "https://yecao.app/apps/2210/21664/28d5ac896f68481107cfa201a83d93bd.apk",
+        "icon": "https://yecao.app/icons/2210/21664/0148b8a65c1e4aceef4d66c96ff820df.png",
+        "version": "点播"
+      },
+      {
+   "name": "爱4K",
+        "url": "https://yecao.app/apps/2210/21664/f5905f9613d0c84eaea25675b0cdf1de.apk",
+        "icon": "https://yecao.app/icons/2210/21664/c14aac2ad83889ef2690dccebcb0c53e.png",
+        "version": "点播"
+      },
+      {
+   "name": "流年影视永久版",
+        "url": "https://yecao.app/apps/2210/21664/c8ae558ced386b69c6f5bfbcd02450e6.apk",
+        "icon": "https://yecao.app/icons/2210/21664/e7f646bfe7db461239f53dac0c213c12.png",
+        "version": "点播"
+      },
+      {
+   "name": "4K免费影视",
+        "url": "https://yecao.app/apps/2210/21664/d4c7930af8fe61e1bc95c5a10dbb67c8.apk",
+        "icon": "https://yecao.app/icons/2210/21664/0148b8a65c1e4aceef4d66c96ff820df.png",
+        "version": "点播"
+      },
+      {
+   "name": "99影院",
+        "url": "https://yecao.app/apps/2210/21664/80d3a25b74f83eb65425e876270713e8.apk",
+        "icon": "https://yecao.app/icons/2210/21664/2d3ef958b18c6976c368b0431977373c.png",
+        "version": "点播"
+      },
+      {
+  "name": "影视仓",
+        "url": "https://yecao.app/apps/2210/21664/045e20b5c7e753e7dfa9cb22e6e8b338.apk",
+        "icon": "https://yecao.app/icons/2210/21664/a1ff9712b7115a0b16463957ef9aac31.png",
+        "version": "点播"
+      },
+      {
+        "name": "万能影视仓",
+        "url": "https://yecao.app/apps/2210/21664/129b28b66bcfbd15ce62a3c1e451ec3f.apk",
+        "icon": "https://yecao.app/icons/2210/21664/5aee0b6a1274c425c1f7ade5c05fa36b.png",
+        "version": "点播"
+      }
+    ]
+  },
+  {
+    "name": "直播",
+    "list": [
+      {
+        "name": "全球直播",
+        "url": "https://yecao.app/apps/2210/21664/ea3397d370ba74c695f13b338f389ea7.apk",
+        "icon": "https://yecao.app/icons/2210/21664/10501ecfc2b9749d7ffe877c58e2d85d.png",
+        "version": "1.0.0"
+      },
+      {
+        "name": "佳视通直播",
+        "url": "https://1812445152.cdn.123clouddisk.com/1812445152/ZB2026/JST.apk",
+        "icon": "http://zibb2025.tdddz.cn/upload/images/20260326/177450638269c4d18e80261.png",
+        "version": "2.1.0"
+      },
+      {
+        "name": "网视TV直播",
+        "url": "https://1812445152.cdn.123clouddisk.com/1812445152/ZB2026/WSTV.apk",
+        "icon": "http://zibb2025.tdddz.cn/upload/images/20260326/177450620169c4d0d95507c.png",
+        "version": "3.0.1"
+      },
+      {
+        "name": "多米直播",
+        "url": "https://1812445152.cdn.123clouddisk.com/1812445152/ZB2026/DMZB.apk",
+        "icon": "http://zibb2025.tdddz.cn/upload/images/20260501/177760514169f41a15859e9.png",
+        "version": "1.5.2"
+      },
+      {
+        "name": "奇米直播",
+        "url": "https://1812445152.cdn.123clouddisk.com/1812445152/ZB2026/QMZB.apk",
+        "icon": "http://zibb2025.tdddz.cn/upload/images/20260522/17794372966a100ef00109a.png",
+        "version": "2.0.3"
+      }
+    ]
+  },
+  {
+    "name": "腰疼",
+    "list": [
+      {
+        "name": "4K美眉",
+        "url": "http://120.46.1.213:99/upload/kozyax_app/20260611/17811164536a29ae2586bda.apk",
+        "icon": "http://120.46.1.213:99/upload/images/20260611/17811165916a29aeafa16dc.png",
+        "version": "腰疼"
+      },
+      {
         "name": "熊猫TV",
         "url": "http://120.46.1.213:99/upload/kozyax_app/20260611/17811152886a29a99899b16.apk",
         "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/maccms2023/tvbox/refs/heads/main/images/xm.png",
-        "version": "腰疼APP"
+        "version": "腰疼"
       },
-{
-      "name": "骚火TV",
-        "url": "http://120.46.1.213:99/upload/kozyax_app/20260611/17811152256a29a9592beb0.apk",
-        "icon": "http://120.46.1.213:99/upload/images/20260611/17811155756a29aab7b8a47.jpeg",
-        "version": "腰疼APP"
+      {
+        "name": "三级影视",
+        "url": "https://yecao.app/apps/3519/49136/4968458ec63bcfade2f2dde6a2bf0765.apk",
+        "icon": "https://yecao.app/icons/3519/49136/843599c0710d3166df43351bad994682.webp",
+        "version": "腰疼"
       },
-{
-      "name": "APP市场",
-        "url": "https://v6.gh-proxy.org/https://github.com/maccms2023/app/raw/refs/heads/main/APP%E5%B8%82%E5%9C%BA.apk",
-        "icon": "https://mpimg.cn/view.php/f50b170b3bf26175561259ba7b6148ac.png",
-        "version": "APP合集"
+      {
+        "name": "七猫高清",
+        "url": "https://yecao.app/apps/3519/49136/dde23f2f1f1da0b5d2cfe352861006d8.apk",
+        "icon": "https://yecao.app/icons/3519/49136/151c85d8d12ada9de14a4f05ff717522.png",
+        "version": "腰疼"
       },
-{
-      "name": "TAO市场",
-        "url": "http://120.46.1.213:99/upload/kozyax_app/20260611/17811156906a29ab2ac8166.apk",
-        "icon": "https://mpimg.cn/view.php/1d342c516c9075423927f36ebbfa4ccf.png",
-        "version": "市场"
+      {
+  "name": "玫瑰影视",
+        "url": "https://yecao.app/apps/3519/49136/fc034dfa3f18fad4fb3e219bfa6a5111.apk",
+        "icon": "https://yecao.app/icons/3519/49136/89ed637daf5a9570489dd68048c13103.png",
+        "version": "腰疼"
       },
-{
-      "name": "三级影视",
-        "url": "https://lz.qaiu.top/parser?url=https://wwbkk.lanzoub.com/izORI3nstcab",
-        "icon": "http://120.46.1.213:99/upload/images/20260611/17811189496a29b7e59c4e0.png",
-        "version": "腰疼APP"
+      {
+  "name": "看看影院免费版",
+        "url": "https://yecao.app/apps/3519/49136/dc4465ef59b300b68b74ce88aac8e66f.apk",
+        "icon": "https://yecao.app/icons/3519/49136/19189086d36b5c2e867aea6f4db42b4e.png",
+        "version": "腰疼"
       },
-{
-     "name": "永久影视",
-        "url": "http://120.46.1.213:99/upload/kozyax_app/20260611/17811159406a29ac244ced3.apk",
-        "icon": "http://120.46.1.213:99/upload/images/20260611/17811161856a29ad19227a2.png",
-        "version": "点播-直播"
+      {
+        "name": "骚火TV",
+        "url": "https://yecao.app/apps/3519/49136/f9c5773da8f48f5962f2c185730c7775.apk",
+        "icon": "https://yecao.app/icons/3519/49136/e97399bc430e539924db53721cac875e.png",
+        "version": "腰疼"
+      }
+    ]
+  },
+  {
+    "name": "工具",
+    "list": [
+      {
+        "name": "小草管家",
+        "url": "https://yecao.app/apps/2210/21664/6c1d6604488a3d587177bcf429639406.apk",
+        "icon": "https://panel.yecao.app/icons/2210/21664/b74db68434c5fe73b4cc575a198ee938.png",
+        "version": "5.0.0"
       },
-{
-
-    "name": "爱4K",
-        "url": "http://120.46.1.213:99/upload/kozyax_app/20260611/17811173336a29b1958f8c7.apk",
-        "icon": "http://120.46.1.213:99/upload/images/20260611/17811173706a29b1ba23dfd.png",
-        "version": "点播-直播"
+      {
+        "name": "小草助手",
+        "url": "https://yecao.app/yecao.apk",
+        "icon": "https://yecao.app/assets/logo.png",
+        "version": "3.2.4"
       },
-{
-
-   "name": "土拨鼠影视",
-        "url": "http://120.46.1.213:99/upload/kozyax_app/20260611/17811186396a29b6af4c6fe.apk",
-        "icon": "http://120.46.1.213:99/upload/images/20260611/17811188406a29b77893b24.png",
-        "version": "点播-直播"
+      {
+        "name": "电视工具箱",
+        "url": "https://yecao.app/apps/2210/21664/5f2313a0b6160092b6299ce6f29a5a04.apk",
+        "icon": "https://yecao.app/icons/2210/21664/b70de9637256ff39abd62a3a93a12d07.png",
+        "version": "2.9.1"
       },
-{
-
-        "name": "二狗助手",
-        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/ergou.apk",
-        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/ig.png",
-        "version": "应用大全"
+      {
+        "name": "APP应用市场",
+        "url": "https://yecao.app/apps/2210/21664/591e2b3c55ff897ff3a8cffa94f96299.apk",
+        "icon": "https://yecao.app/icons/2210/21664/5adef28a8983f5655776b869b0f9b253.png",
+        "version": "6.1.0"
       },
-{
-        "name": "欢视助手",
-        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/huanshi.apk",
-        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/vw.jpg",
-        "version": "应用投送"
+      {
+   "name": "欢视助手",
+        "url": "https://dl-appstore.huan.tv/project/ott/tvhelper/TVhelper_general_1.0.0_20231023174019_release.apk",
+        "icon": "https://zhushou.huan.tv/static/img/logo.6b0af0f.png",
+        "version": "6.1.0"
       },
-{
-        "name": "电视直播",
-        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/dianshizhibo.apk",
-        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2055482234538369024.jpg",
-        "version": "支持语音"
+      {
+   "name": "ES文件浏览器",
+        "url": "https://app.qingyingyong.net/down/20211028/eswjllq_4.2.8.1_dangbei.apk",
+        "icon": "https://img.znds.com/uploads/new/150908/9-150ZQ35R04T.png",
+        "version": "6.1.0"
       },
-{
-        "name": "小苹果TV",
-        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/xpgtv.apk",
-        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2056249290988797952.jpg",
-        "version": "内置40条线路"
+      {
+  "name": "甲壳虫adb助手",
+        "url": "https://yecao.app/apps/2210/21664/c47137a12a000737e52bfbb4e6d61466.apk",
+        "icon": "https://yecao.app/icons/2210/21664/c0bda5106ff322aeb6f928e9e944e3bc.png",
+        "version": "6.1.0"
       },
-{
-        "name": "千寻直播",
-        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/qianxun.apk",
-        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2055903997852241920.jpg",
-        "version": "支持语音换台"
+      {
+   "name": "文件管理器",
+        "url": "https://yecao.app/apps/2210/21664/abbc34bed8b475c6bca437a19f0ec67a.apk",
+        "icon": "https://mpimg.cn/view.php/51b00d944f08efb5c0ca9b9b70b8fa7d.jpeg",
+        "version": "6.1.0"
       },
-{
-        "name": "宝宝巴士儿歌",
-        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/baobaobashi.apk",
-        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/1865742332872704000.jpg",
-        "version": "儿歌动画"
+      {
+        "name": "传输助手",
+        "url": "https://yecao.app/apps/2210/21664/1e1389ac78e77e9b0cfaf7abf47434e6.apk",
+        "icon": "https://yecao.app/icons/2210/21664/63d746b6f5211df9c119b0c2b1227ae0.png",
+        "version": "4.3.2"
+      }
+    ]
+  },
+  {
+    "name": "其他",
+    "list": [
+      {
+        "name": "网易云音乐",
+        "url": "https://apps.sfcdn.org/apk/com.netease.cloudmusic.iot.bcda64a894350b2e1d040af636f03fd1.apk",
+        "icon": "http://img-2.sfcdn.org/be8d7909d9764d5dc0aa75751909d8abcac07248.png",
+        "version": "1.1.3"
       },
-{
+      {
+        "name": "有乐斗地主",
+        "url": "https://apps.sfcdn.org/apk/com.youjoy.strugglelandlord.79784fb7390ac59cd9859b3a125bc999.apk",
+        "icon": "http://img-2.sfcdn.org/a715708f2d6d65b37e0f81cf54138fbe7906b96b.png",
+        "version": "2.2.5"
+      },
+      {
         "name": "淘知学堂",
-        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/taozhixuetang.apk",
-        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/1863157714193592320.jpg",
-        "version": "儿童学习"
+        "url": "http://120.46.1.213:99/upload/kozyax_app/20250706/1751793932686a410c22d18.apk",
+        "icon": "http://120.46.1.213:99/upload/images/20250706/1751794123686a41cb273af.png",
+        "version": "3.0.0"
       },
-{
-        "name": "小苹果音乐TV版",
-        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/music.apk",
-        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2061648416357756928.jpg",
-        "version": "TV听歌"
+      {
+        "name": "宝宝巴士儿歌新版",
+        "url": "http://120.46.1.213:99/upload/kozyax_app/20250602/bbbs1748851361683d5aa1295bd.apk",
+        "icon": "http://120.46.1.213:99/upload/images/20250102/173581404767766b9fe8819.jpg",
+        "version": "2.7.1"
       },
-{
-        "name": "小白浏览器",
-        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/xiaobai.apk",
-        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/1879549331154513920.jpg",
-        "version": "软件管家"
-      },
-{
-        "name": "小红帽管家",
-        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/xiaohongmao.apk",
-        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2032055165548859392.jpg",
-        "version": "软件管家"
-      },
-{
-        "name": "看客",
-        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/kanke.apk",
-        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2060665888508002304.jpg",
-        "version": "影视点播"
-      },
-{
-        "name": "星海体育",
-        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/xinghai.apk",
-        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2061264286458056704.jpg",
-        "version": "足球篮球"
-      },
-{
-        "name": "大强影视",
-        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/daqiang.apk",
-        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2061308927965933568.jpg",
-        "version": "软件管家"
-      },
-{
-        "name": "艺华直播",
-        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/yihua.apk",
-        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2047121710360080384.jpg",
-        "version": "软件管家"
-      },
-
-{
-        "name": "当贝市场",
-        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/dangbei.apk",
-        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/1933053327264808960.jpg",
-        "version": "软件管家"
+      {
+        "name": "七星智教",
+        "url": "http://120.46.1.213:99/upload/kozyax_app/20250602/qxzj1748850671683d57ef2f25b.apk",
+        "icon": "http://120.46.1.213:99/upload/images/20250102/1735817088677677803b179.png",
+        "version": "1.9.8"
       }
     ]
   }
