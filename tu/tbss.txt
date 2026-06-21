@@ -8,7 +8,7 @@
     "list": [
       {
         "name": "正品影视",
-        "url": "http://120.46.1.213:99/upload/kozyax_app/20260611/17811167326a29af3ca2d18.apk",
+        "url": "https://yecao.app/apps/2210/21664/bd41e1987c317c61ab5605697eeb8bfa.apk",
         "icon": "https://zpyc.top/img/logo.png",
         "version": "点播-直播"
       },
@@ -120,13 +120,13 @@
     "list": [
       {
         "name": "4K美眉",
-        "url": "http://120.46.1.213:99/upload/kozyax_app/20260611/17811164536a29ae2586bda.apk",
+        "url": "https://yecao.app/apps/3519/49136/0d075a723c97f07cdc4e7bb8f0a27648.apk",
         "icon": "http://120.46.1.213:99/upload/images/20260611/17811165916a29aeafa16dc.png",
         "version": "腰疼"
       },
       {
         "name": "熊猫TV",
-        "url": "http://120.46.1.213:99/upload/kozyax_app/20260611/17811152886a29a99899b16.apk",
+        "url": "https://yecao.app/apps/3519/49136/5421ffff4d0e3515387848e303154b47.apk",
         "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/maccms2023/tvbox/refs/heads/main/images/xm.png",
         "version": "腰疼"
       },
