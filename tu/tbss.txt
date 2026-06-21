@@ -121,7 +121,7 @@
       {
         "name": "4K美眉",
         "url": "https://yecao.app/apps/3519/49136/0d075a723c97f07cdc4e7bb8f0a27648.apk",
-        "icon": "http://120.46.1.213:99/upload/images/20260611/17811165916a29aeafa16dc.png",
+        "icon": "https://yecao.app/icons/3519/49136/bc1feed5ae2fbaa9bd779833ba5406e9.png",
         "version": "腰疼"
       },
       {
