@@ -7,6 +7,12 @@
     "name": "点播",
     "list": [
       {
+  "name": "芒果8K",
+        "url": "https://yecao.app/apps/2210/21664/c545b7905d6c0c552cb056216b749a2b.apk",
+        "icon": "https://yecao.app/icons/2210/21664/fee95d28022316152b779f2407b439da.png",
+        "version": "点播-直播"
+      },
+      {
         "name": "正品影视",
         "url": "https://yecao.app/apps/2210/21664/bd41e1987c317c61ab5605697eeb8bfa.apk",
         "icon": "https://zpyc.top/img/logo.png",
