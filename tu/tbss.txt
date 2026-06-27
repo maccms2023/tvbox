@@ -56,7 +56,7 @@
       },
       {
    "name": "流年影视永久版",
-        "url": "https://yecao.app/apps/2210/21664/c8ae558ced386b69c6f5bfbcd02450e6.apk",
+        "url": "https://xcao.app/apps/2210/21664/c545b7905d6c0c552cb056216b749a2b.apk",
         "icon": "https://yecao.app/icons/2210/21664/e7f646bfe7db461239f53dac0c213c12.png",
         "version": "点播"
       },
