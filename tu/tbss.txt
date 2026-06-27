@@ -220,6 +220,12 @@
         "version": "6.1.0"
       },
       {
+   "name": "野草助手",
+        "url": "https://file.yecao.me/common/resource/yc/3/apk/2026/06/24/fun.yecao.helper_2.0.16_1782295478_yecao.apk",
+        "icon": "https://www.yecao.me/wp-content/uploads/sites/2/elementor/thumbs/WechatIMG37782-qic9jsodgshupyei7c367opsz8jvcqqqj7lg5vw8a0.png",
+        "version": "6.1.0"
+      },
+      {
         "name": "传输助手",
         "url": "https://yecao.app/apps/2210/21664/1e1389ac78e77e9b0cfaf7abf47434e6.apk",
         "icon": "https://yecao.app/icons/2210/21664/63d746b6f5211df9c119b0c2b1227ae0.png",
