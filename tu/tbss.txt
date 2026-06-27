@@ -14,7 +14,7 @@
       },
       {
         "name": "爱心影视",
-        "url": "https://yecao.app/apps/1659/13220/c899fad20d8411e43c52f39b7386f533.apk",
+        "url": "https://yecao.app/apps/1659/13220/4e218410085cd9132b6d2062767f949e.apk",
         "icon": "https://yecao.app/icons/2210/21664/08f551b10c92b3d6276950ef973c1a6b.png",
         "version": "点播"
       },
