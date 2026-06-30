@@ -1,4 +1,6 @@
 高清央卫,#genre#
+凤凰中文,http://156.238.224.170:7001/fhx.php?id=cn
+香港卫视,http://webcast.hkstv.tv:80/livestream/mutfysrq/playlist.m3u8?hls_ctx=9dl33ad6
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 重温经典,http://107.150.60.122/live/cwjd.m3u8
