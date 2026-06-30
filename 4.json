@@ -14,12 +14,8 @@
 }],
 
 "sites":[
-	
-{"key":"豆豆","name":"网络收集请勿演示贩卖：请勿相信视频中广告！","type":3,"api":"csp_Douban","indexs":1,"searchable":0,"quickSearch":0,"filterable":0},
-
-{
    "key": "应用商店",
-            "name": "APP应用下载",
+            "name": "APP应用下载|4can.top",
             "type": 3,
             "api": "csp_Market",
             "searchable": 0,
@@ -30,7 +26,13 @@
     
 
 
+
+
+	
+{"key":"豆豆","name":"网络收集请勿演示贩卖：请勿相信视频中广告！","type":3,"api":"csp_Douban","indexs":1,"searchable":0,"quickSearch":0,"filterable":0},
+
 {
+
 
 "key":"
 config", "name": "🐲歌配置｜中心","type": 3,"jar":"https://ncstatic-file.clewm.net/rsrc/2026/0524/23/bddac79856595d96120f2620c139605d.jpg;md5;ce0e1ac1479b78f120064cc4669f40ae","api": "csp_Config","searchable": 0},
