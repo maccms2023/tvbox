@@ -15,6 +15,17 @@
       "ext": "http://www.li888.top/api.php/app/"
     },
     {
+ "key": "应用商店",
+            "name": "APP应用下载",
+            "type": 3,
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/maccms2023/tvbox/refs/heads/main/tu/tbss.txt"
+        },
+ 
+
+{
 "key": "腾讯",
       "name": "☀腾讯☀",
       "type": 3,
