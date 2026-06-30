@@ -1,0 +1,28 @@
+{
+  "storeHouse": [
+    {
+      "sourceName": "这里添加接口",
+      "sourceUrl": "https://gitee.com/tvboxx/tv/raw/master/canku/can1.json"
+    },
+    {
+      "sourceName": "🌹ix欧歌xi备1仓库🌹",
+      "sourceUrl": "https://2.nxog.eu.org/nxog/ou1.php?b=ix欧歌xi"
+    },
+    {
+      "sourceName": "🌷ix欧歌xi备2仓库🌷",
+      "sourceUrl": "https://3.nxog.eu.org/nxog/ou1.php?b=ix欧歌xi"
+    },
+    {
+      "sourceName": "仓库1",
+      "sourceUrl": "https://raw.liucn.cc/box/dc.txt"
+    },
+    {
+      "sourceName": "🐹VIP影视仓库🐹",
+      "sourceUrl": "http://vip.56jm.cn/dwz/cangkuVIP1_253"
+    },
+    {
+      "sourceName": "❤全网仓❤",
+      "sourceUrl": "http://vip.56jm.cn/dwz/cangkuVIP2"
+    }
+  ]
+}
