@@ -125,6 +125,13 @@
     "name": "腰疼",
     "list": [
       {
+  "name": "NewTV免费版",
+        "url": "https://lz.qaiu.top/parser?url=https://wwbkk.lanzoub.com/inSn73zd7lwh",
+        "icon": "https://panel.yecao.app/icons/3519/49136/571fa6de5e26e6c2aa161e964c1370ca.png",
+        "version": "腰疼"
+      },
+      {
+
         "name": "4K美眉",
         "url": "https://yecao.app/apps/3519/49136/0d075a723c97f07cdc4e7bb8f0a27648.apk",
         "icon": "https://yecao.app/icons/3519/49136/bc1feed5ae2fbaa9bd779833ba5406e9.png",
