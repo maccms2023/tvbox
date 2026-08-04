@@ -1,7 +1,7 @@
 {
   "urls": [
     {
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/qq/refs/heads/main/api.json",
+      "url": "http://210.245.166.68:1188/tvbox/liunian/",
       "name": "🚀天微影线"
     },
     {
