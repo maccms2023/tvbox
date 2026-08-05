@@ -79,6 +79,7 @@ TVBS 新闻,https://stream1.freetv.fun/tvbs-news-1.m3u8
 
 新增频道,#genre#
 爱尔达体育3台,http://43.251.226.89:5050/smart.php?id=eltasport3_twn&token=8522
+口令3344,https://mpimg.cn/view.php/739fc0a0a7b0c5cad5504ab865cb7bbf.mp4
 now新闻,http://hls.168.us.kg/u/332/master.m3u8
 now财经,http://hls.168.us.kg/u/333/master.m3u8
 now直播,http://hls.168.us.kg/u/331/master.m3u8
@@ -155,6 +156,7 @@ CCTV-01咪咕,http://go.bkpcp.top/mg/cctv1
 CCTV-02咪咕,http://go.bkpcp.top/mg/cctv2
 CCTV-03咪咕,http://go.bkpcp.top/mg/cctv3
 CCTV-04咪咕,http://go.bkpcp.top/mg/cctv4
+口令3344,https://mpimg.cn/view.php/739fc0a0a7b0c5cad5504ab865cb7bbf.mp4
 CCTV-05咪咕,http://go.bkpcp.top/mg/cctv5
 CCTV-5+咪咕,http://go.bkpcp.top/mg/cctv5p
 CCTV-06咪咕,http://go.bkpcp.top/mg/cctv6
@@ -245,6 +247,7 @@ Wion News,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 FILM arts,http://148.113.160.49:14210/
 索尼频道，http://148.113.160.49:14206/
 CINEMAX,http://148.113.160.49:14200/
+口令3344,https://mpimg.cn/view.php/739fc0a0a7b0c5cad5504ab865cb7bbf.mp4
 USA 电视,http://148.113.160.49:14133/
 Megapix,http://148.113.160.49:14172/
 Modo Viagem,http://148.113.160.49:14214/
@@ -262,6 +265,7 @@ SPACE,http://148.113.160.49:14170/
 周润发电影院,http://222.186.39.38:8000/587078/index.m3u8
 恐怖电影院,https://yylunbo.ottiptv.cc/yy/24066336
 成龙电影院,https://yylunbo.ottiptv.cc/yy/1382736841
+口令3344,https://mpimg.cn/view.php/739fc0a0a7b0c5cad5504ab865cb7bbf.mp4
 天浪电影台 - CH1,https://yylunbo.ottiptv.cc/yy/1382736857
 天浪电影台 - CH2,https://tv.ximix.us/yy/1382736823
 天浪电影台 - CH3,http://cfss.cc/cdn/hy/11336587.m3u8
