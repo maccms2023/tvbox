@@ -4,6 +4,7 @@
 央视频道,#genre#
 源1auth
 CCTV1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
+口令3344,https://mpimg.cn/view.php/739fc0a0a7b0c5cad5504ab865cb7bbf.mp4
 小草口令3344,https://mpimg.cn/view.php/cb07f95d7f81502a7dc9803e1bd6868c.mp4
 CCTV2,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
 CCTV3,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
@@ -84,7 +85,7 @@ CCTV17,http://23.237.228.134/live5/CCTV17.m3u8
 CCTV1,http://1.31.14.70:54321/hls/2/index.m3u8
 CCTV1,http://39.152.103.17:8089/tsfile/live/1000_1.m3u8
 CCTV1,http://183.222.242.31:8088/hls/1/index.m3u8
-
+口令3344,https://mpimg.cn/view.php/739fc0a0a7b0c5cad5504ab865cb7bbf.mp4
 CCTV2,http://1.31.14.70:54321/hls/4/index.m3u8
 CCTV2,http://39.152.103.17:8089/tsfile/live/1001_1.m3u8
 CCTV2,http://183.222.242.31:8088/hls/2/index.m3u8
@@ -156,6 +157,7 @@ CHC动作电影,http://39.152.103.17:8089/tsfile/live/1045_1.m3u8
 源1
 江苏卫视,http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub
 浙江卫视,http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
+口令3344,https://mpimg.cn/view.php/739fc0a0a7b0c5cad5504ab865cb7bbf.mp4
 北京卫视,http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
 湖南卫视,http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
 东方卫视,http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
@@ -265,6 +267,7 @@ CHC动作电影,http://39.152.103.17:8089/tsfile/live/1045_1.m3u8
 央视测试,#genre#
 源1
 高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+口令3344,https://mpimg.cn/view.php/739fc0a0a7b0c5cad5504ab865cb7bbf.mp4
 央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
