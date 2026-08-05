@@ -241,6 +241,18 @@
     ]
   },
   {
+  "name": "腰疼小草口令3344",
+    "list": [
+      {
+    
+        "name": "口令3344"",
+        "url": "ht",
+        "icon": "https://mpimg.cn/view.php/8eb0195d1c7fe1a671cd490041f3cf5a.png",
+        "version": "4.3.2"
+      }
+    ]
+  },
+  {
     "name": "其他",
     "list": [
       {
