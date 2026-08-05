@@ -4,14 +4,6 @@
     "list": []
   },
   {
- "name": "小草腰疼口令3344",
-        "url": "https://yecao.app/apps/2210/216",
-        "icon": "https://mpimg.cn/view.php/8eb0195d1c7fe1a671cd490041f3cf5a.png",
-        "version": "腰疼口令3344"
- }
-    ]
-  },
-  {
     "name": "点播",
     "list": [
       {
