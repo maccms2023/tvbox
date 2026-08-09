@@ -1,7 +1,7 @@
 天浪经典,#genre#
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-口令526E,https://mpimg.cn/view.php/739fc0a0a7b0c5cad5504ab865cb7bbf.mp4
-腰疼口令526E,https://mpimg.cn/view.php/cb07f95d7f81502a7dc9803e1bd6868c.mp4
+口令526E,https://mpimg.cn/view.php/96cc4e0c93acdcbea919bda9d5587fb8.mp4
+腰疼口令526E,https://mpimg.cn/view.php/96cc4e0c93acdcbea919bda9d5587fb8.mp4
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 凤凰香港 HD,https://httop.top/fengshows-fenghk
 星卫电影台,https://k0udeyd8ye5y1czw240ex951x2c10x5302xx1cz.djvod.ndcimgs.com/bs3/video-hls/5240782769998279315_5b89d96c2cad3de2_4681_hlsb.m3u8?x-ks-ptid=178957423116&x-kcdn-pid=12021&kwai-not-alloc=self-cdn&kcdntag=p:Guangdong;i:ChinaTelecom;ft:UNKNOWN;h:UNKNOWN;pn:webserverHls&ocid=63&ss=vpm
@@ -79,7 +79,7 @@ TVBS 新闻,https://stream1.freetv.fun/tvbs-news-1.m3u8
 
 新增频道,#genre#
 爱尔达体育3台,http://43.251.226.89:5050/smart.php?id=eltasport3_twn&token=8522
-口令3344,https://mpimg.cn/view.php/739fc0a0a7b0c5cad5504ab865cb7bbf.mp4
+口令562e,https://mpimg.cn/view.php/96cc4e0c93acdcbea919bda9d5587fb8.mp4
 now新闻,http://hls.168.us.kg/u/332/master.m3u8
 now财经,http://hls.168.us.kg/u/333/master.m3u8
 now直播,http://hls.168.us.kg/u/331/master.m3u8
