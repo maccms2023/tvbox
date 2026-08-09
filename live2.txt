@@ -4,7 +4,7 @@
 央视频道,#genre#
 源1auth
 CCTV1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
-口令562E,https://mpimg.cn/view.php/96cc4e0c93acdcbea919bda9d5587fb8.mp4
+口令526E,https://mpimg.cn/view.php/96cc4e0c93acdcbea919bda9d5587fb8.mp4
 小草口令https://mpimg.cn/view.php/96cc4e0c93acdcbea919bda9d5587fb8.mp4
 CCTV2,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
 CCTV3,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
