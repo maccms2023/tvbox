@@ -1,5 +1,5 @@
 {
-  "spider": "https://cdn.jsdelivr.net/gh/maccms2023/tvbox@refs/heads/main/x7/aowu.jar",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/maccms2023/tvbox/refs/heads/main/x7/aowu.jar",
   "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
   "lives": [
     {
