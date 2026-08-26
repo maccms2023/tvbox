@@ -5,7 +5,7 @@
     {
       "name": "默认列表",
       "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/XingXing_V2.6.7/data/live.txt",
+      "url": "http://1.94.31.214/live/live9/dgtv.txt",
       "playerType": 1,
       "epg": "https://epg.pw/xmltv/epg_CN.xml"
     },
