@@ -19,7 +19,7 @@
   ],
   "sites": [
     {
-      "name": "七星影仓[防墙版]小草口令526E",
+      "name": "七星影仓[防墙版]",
       "key": "Douban",
       "type": 3,
       "api": "csp_DoubanAmns",
