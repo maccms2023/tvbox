@@ -7,27 +7,27 @@
     "name": "点播",
     "list": [
       {
-  "name": "芒果8K",
-        "url": "https://yecao.app/apps/2210/21664/c545b7905d6c0c552cb056216b749a2b.apk",
-        "icon": "https://yecao.app/icons/2210/21664/fee95d28022316152b779f2407b439da.png",
+  "name": "剧好看",
+        "url": "https://yecao.app/apps/3519/920441/b1d03ef4a10e58888d9c2c9f5cb6826b.apk",
+        "icon": "https://yecao.app/icons/3519/920441/6faa8b3fb8be176a5d28daec105288b6.png",
         "version": "点播-直播"
       },
       {
-        "name": "正品影视",
-        "url": "https://yecao.app/apps/2210/21664/bd41e1987c317c61ab5605697eeb8bfa.apk",
-        "icon": "https://zpyc.top/img/logo.png",
+        "name": "魔王影视",
+        "url": "https://yecao.app/apps/3519/920441/21944702ca3eff6c1274ddc0deb98c35.apk",
+        "icon": "https://yecao.app/icons/3519/920441/454b3e9e4b5397515eec55b5b30b39eb.png",
         "version": "点播-直播"
       },
       {
-        "name": "爱心影视",
-        "url": "https://yecao.app/apps/1659/13220/4e218410085cd9132b6d2062767f949e.apk",
-        "icon": "https://yecao.app/icons/2210/21664/08f551b10c92b3d6276950ef973c1a6b.png",
+        "name": "牛羊管家",
+        "url": "https://yecao.app/apps/3519/920441/ea9a135eafe0da26b800362884ab6880.apk",
+        "icon": "https://yecao.app/icons/3519/920441/d4a6d9ee5f1b805492ee53dcddeb5999.png",
         "version": "点播"
       },
       {
-   "name": "青苹果4K",
-        "url": "https://yecao.app/apps/2210/21664/1cbb2af67480216625b05c865acf3ca2.apk",
-        "icon": "https://yecao.app/icons/2210/21664/3337a9c4c8779984e8812ac31feec331.png",
+   "name": "风驰4K",
+        "url": "https://yecao.app/apps/3519/920441/5e40ba1e3299be7fbad100f29e34c3bb.apk",
+        "icon": "https://yecao.app/icons/3519/920441/f3d0933c3fc62ed0dba0808b0117bd68.png",
         "version": "点播"
       },
       {
